@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<meta name="theme-color" content="#C4E5EE">
+<!--Light Blue default Its the embed color-->
+<meta name="title" content="ItsMarwan • Website">
+<!--The link title in the embed-->
+<meta name="description" content="ItsMarwan. On Youtube, Join My Discord Server On discord.gg/7SvfCMb9cf !">
+<!--Description ofc-->
+<meta name="thumbnail" content="logo.png">
+
+<meta name="keywords" content="ItsMarwan, Discord, Youtube, Developer">
+<!--Some SEO so google can find your website on search better-->
+<meta name="robots" content="index, follow"><!-- Ignorable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+
+  <link rel="icon" type="image/png" href="logo.png">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>ItsMarwan • Website</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+  <header>
+    <div class="navbar">
+      <div class="logo"><a href="#">ItsMarwan.</a></div>
+      <ul class="links">
+        <li><a href="#">Home</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="faqs.html">FAQs</a></li>
+        <li><a href="https://youtube.com/@itsmarwan.">YouTube</a></li>
+        <li><a href="https://discord.com/invite/7SvfCMb9cf">Discord</a></li>
+      </ul>
+      <a href="https://youtube.com/@itsmarwan.?sub_confirmation=1" class="action_btn">Subscribe</a>
+      <div class="toggle_btn">
+         <i class="fa-solid fa-bars"></i>
+      </div>
+    </div>
+    <div class="dropdown_menu">
+      <li><a href="#">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="faqs.html">FAQs</a></li>
+        <li><a href="https://youtube.com/@itsmarwan">YouTube</a></li>
+        <li><a href="https://discord.com/invite/7SvfCMb9cf">Discord</a></li>
+        <li><a href="https://youtube.com/@itsmarwan.?sub_confirmation=1" class="action_btn">Subscribe</a></li>
+    </div>
+
+    <div class="text-box">
+      <h1>ItsMarwan.</h1>
+      <p><b>Unlock Your Core Potential</b> With ItsMarwan.'s Tutorials!<br>Scroll Down For More!</p>
+      <a href="https://youtube.com/@itsmarwan.?sub_confirmation=1" class="hero-btn">Get Started</a>
+    </div>
+  </header>
+  <section class="unique">
+    <h1>Why Choose <b>Marwan</b>'s Videos?</h1>
+    <p>ItsMarwan's Tutorials Are <b>Better Than Anyone Else!</b> Why? You Might Ask. Because Of <b>The Following Reasons</b>.</p>
+    <div class="row">
+      <div class="unique-col">
+        <h3>High Quality Videos</h3>
+        <p>Marwan's Video <b>Wont Have Annoying Sound Effects Nor The Annoying "Like & Subscribe"</b> and There Wont Be Any Music Unless If Its Lofi Beats Just.</p>
+      </div>
+      <div class="unique-col">
+        <h3>Straight To The Point</h3>
+        <p><b>There Wont Be The "LiKE & sUbSicRiBe fOr 1m vBuCkS!!!"</b> Its Just The Tutorial And The Lofi Beats (non-copyright).</p>
+      </div>
+
+      <div class="unique-col">
+        <h3>Helping Others</h3>
+        <p>I<b> Love Helping Others </b>If They Are Having Issues With The Tutorials I Made in The Past Videos, You Can DM On Discord For Help<b> @itsmarwan.</b> (with Period), I also i <b>always</b> Respond To Comments On My Videos</p>
+      </div>
+    </div>
+  </section>
+  <script>
+    const toggleBtn = document.querySelector('.toggle_btn')
+    const toggleBtnIcon = document.querySelector('.toggle_btn i')
+    const dropDownMenu = document.querySelector('.dropdown_menu')
+
+    toggleBtn.onclick = function(){
+      dropDownMenu.classList.toggle('open')
+      const isOpen = dropDownMenu.classList.contains('open')
+
+      toggleBtnIcon.classList = isOpen
+      ? 'fa-solid fa-xmark'
+      : 'fa-solid fa-bars'
+    }
+  </script>
+</body>
+<footer>
+  <p><b>Unlock Your Core Potential</b> With ItsMarwan.'s Tutorials!<br>More Pages Soon!</p>
+</footer>
+</html>
