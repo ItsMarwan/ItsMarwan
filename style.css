@@ -17,11 +17,11 @@ li {
 }
 a {
   text-decoration: none;
-  color: #fff;
+  color: #C4E5EE;
   font-size: 1rem;
 }
 a:hover {
-  color: #52759B;
+  color: #3C465F;
 }
 header {
   position: relative;
