@@ -212,6 +212,9 @@ p{
 .unique-col h3 {
   color: #35445B;
 }
+.unique i {
+color: #35445B;
+}
 h3 {
   text-align: center;
   font-weight: 600;
