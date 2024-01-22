@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<meta name="theme-color" content="#C4E5EE">
+<!--Light Blue default Its the embed color-->
+<meta name="title" content="ItsMarwan • Website">
+<!--The link title in the embed-->
+<meta name="description" content="ItsMarwan. On Youtube, Join My Discord Server On discord.gg/7SvfCMb9cf !">
+<!--Description ofc-->
+<meta name="thumbnail" content="logo.png">
+
+<meta name="keywords" content="ItsMarwan, Discord, Youtube, Developer">
+<!--Some SEO so google can find your website on search better-->
+<meta name="robots" content="index, follow"><!-- Ignorable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+
+  <link rel="icon" type="image/png" href="logo.png">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>404 • ItsMarwan</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+  <header>
+    <div class="navbar">
+      <div class="logo"><a href="./">ItsMarwan.</a></div>
+      <ul class="links">
+        <li><a href="./">Home</a></li>
+        <li><a href="https://www.tiktok.com/@itsmarwan.yt">TikTok</a></li>
+        <li><a href="./plans">Plans</a></li>
+        <li><a href="https://youtube.com/@itsmarwan.">YouTube</a></li>
+        <li><a href="https://discord.com/invite/7SvfCMb9cf">Discord</a></li>
+      </ul>
+      <a href="https://youtube.com/@itsmarwan.?sub_confirmation=1" class="action_btn">Subscribe</a>
+      <div class="toggle_btn">
+         <i class="fa-solid fa-bars"></i>
+      </div>
+    </div>
+    <div class="dropdown_menu">
+      <li><a href="./">Home</a></li>
+        <li><a href="https://www.tiktok.com/@itsmarwan.yt">TikTok</a></li>
+        <li><a href="./plans">Plans</a></li>
+        <li><a href="https://youtube.com/@itsmarwan">YouTube</a></li>
+        <li><a href="https://discord.com/invite/7SvfCMb9cf">Discord</a></li>
+        <li><a href="https://youtube.com/@itsmarwan.?sub_confirmation=1" class="action_btn">Subscribe</a></li>
+    </div>
+
+    <div class="text-box">
+      <h1>404</h1>
+      <p>Page Not Found! There's Only Plans & index</p>
+      <a href="./index" class="hero-btn">Return To Home</a>
+    </div>
+  </header>
+
+  <script>
+    const toggleBtn = document.querySelector('.toggle_btn')
+    const toggleBtnIcon = document.querySelector('.toggle_btn i')
+    const dropDownMenu = document.querySelector('.dropdown_menu')
+
+    toggleBtn.onclick = function(){
+      dropDownMenu.classList.toggle('open')
+      const isOpen = dropDownMenu.classList.contains('open')
+
+      toggleBtnIcon.classList = isOpen
+      ? 'fa-solid fa-xmark'
+      : 'fa-solid fa-bars'
+    }
+  </script>
+</body>
+<footer>
+  <p><b>Unlock Your Core Potential</b> With ItsMarwan.'s Tutorials!<br>More Pages Soon!</p>
+</footer>
+</html>
