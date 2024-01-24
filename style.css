@@ -9,7 +9,7 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 body{
-  background-color: #35445B;
+  background-color: #01002A;
 }
 
 li {
@@ -28,7 +28,7 @@ header {
   padding: 0 2rem;
 
   height: 100vh;
-  background-image: url('https://i.imgur.com/FDn7yfI.jpeg');
+  background-image: url('https://i.imgur.com/HuuAgCw.jpeg');
   background-size: cover;
   background-position: center;
 }
@@ -45,7 +45,7 @@ header {
 .navbar .logo a {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #52759B;
+  color: #6D2176;
 }
 .navbar .links {
   display: flex;
@@ -59,7 +59,7 @@ header {
   
 }
 .action_btn {
-  background-color: #52759B;
+  background-color: #701B6C;
   color: #fff;
   padding: 0.5rem 1rem;
   border: none;
@@ -80,7 +80,7 @@ header {
   top: 60px;
   height: 0;
   width: 300px;
-  background: rgba(192, 206, 219);
+  background: rgba(204,127,213);
   backdrop-filter: blur(15px);
   border-radius: 10px;
   overflow: hidden;
@@ -127,17 +127,6 @@ header {
     width: unset;
   }
 }
-::-webkit-scrollbar {
-  width: 12px;
-}
-::-webkit-scrollbar-thumb {
-  background-color: linear-gradient(transparent, #C4E5EE);
-  border-radius: 6px;
-  
-}
-::-webkit-scrollbar-thumb:hover {
-  background-color: linear-gradient(transparent, #52759B);
-}
 .text-box {
   width: 90%;
   color: #fff;
@@ -169,8 +158,8 @@ header {
   cursor: pointer;
 }
 .hero-btn:hover {
-  border: 1px solid #C4E5EE;
-  background: #C4E5EE;
+  border: 1px solid #CC7FD5;
+  background: #CC7FD5;
   transition: 1s;
 }
 .unique {
@@ -182,7 +171,7 @@ header {
 h1{
   font-size: 36px;
   font-weight: 600;
-  color: #52759B;
+  color: #0082D0;
 }
 p{
   color: #fff;
@@ -199,7 +188,7 @@ p{
 }
 .unique-col {
   flex-basis: 31%;
-  background: #C4E5EE;
+  background: #CC7FD5;
   border-radius: 10px;
   margin-bottom: 5%;
   padding: 20px 12px;
@@ -207,13 +196,13 @@ p{
   transition: 0.5s;
 }
 .unique-col p {
-  color: #35445B;
+  color: #01002A;
 }
 .unique-col h3 {
-  color: #35445B;
+  color: #01002A;
 }
 .unique i {
-color: #35445B;
+color: #01002A;
 font-size: 32px;
 }
 h3 {
@@ -222,7 +211,7 @@ h3 {
   margin: 10px 0;
 }
 .unique-col:hover {
-  box-shadow: 0 0 20px 0px rgba(196, 229, 238);
+  box-shadow: 0 0 20px 0px rgba(204,127,213);
 }
 footer {
   position: absolute;
@@ -239,7 +228,7 @@ section {
   align-items: center;
 }
 .title {
-  color: #C4E5EE;
+  color: #CC7FD5;
   font-size: 3rem;
   margin: 2rem 0rem;
 }
