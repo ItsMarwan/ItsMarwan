@@ -292,3 +292,13 @@ svg {
     font-size: 8px;
   }
 }
+#header {
+    position: fixed;
+    background: #000;
+    height: 60px;
+    width: 100%;
+    clip: rect( top, offset of right clip from left side, offset of bottom from top, left);
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+    filter: url(blur.svg#blur);
+}
