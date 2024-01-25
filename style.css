@@ -17,11 +17,11 @@ li {
 }
 a {
   text-decoration: none;
-  color: #CC7FD5;
+  color: #fff;
   font-size: 1rem;
 }
 a:hover {
-  color: #6D2176;
+  color: #fff;
 }
 header {
   position: relative;
@@ -45,7 +45,7 @@ header {
 .navbar .logo a {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #3C465F;
+  color: #CC7FD5;
 }
 .navbar .links {
   display: flex;
