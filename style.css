@@ -13,6 +13,8 @@ body{
   padding: 0 2rem;
   height: 100vh;
   background-color: #0E1C31;
+  background-size: cover;
+  background-position: center;
 }
 
 li {
