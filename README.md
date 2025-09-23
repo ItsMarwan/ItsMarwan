@@ -57,9 +57,3 @@ I enjoy solving real-world problems through clean and efficient code.
   <a href="https://discord.gg/Fwd9MgB8Ww"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:itsmarwanuefn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:4e9eff&height=120&section=footer" />
-</p>
