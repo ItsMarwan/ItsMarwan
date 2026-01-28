@@ -6,9 +6,9 @@
 
 
 <!-- Introduction -->
-<h3 align="center">💻 Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">💻 Solo Developer | UEFN Specialist</h3>
 <p align="center">
-I'm Marwan — a passionate developer constantly learning and building tools, automation scripts, and websites.
+I'm Marwan. a passionate developer constantly learning and building tools, automation scripts, and websites.
 I enjoy solving real-world problems through clean and efficient code.
 </p>
 <p align="center">
@@ -29,7 +29,7 @@ I enjoy solving real-world problems through clean and efficient code.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,vscode,unreal" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,vscode,visualstudio,unreal,nodejs,vercel" />
 </p>
 
 **Languages & Tools I Use:**
@@ -53,7 +53,7 @@ I enjoy solving real-world problems through clean and efficient code.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://marwan.is-a-good.dev"><img src="https://img.shields.io/badge/Website-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://marwan.is-cool.dev"><img src="https://img.shields.io/badge/Website-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://discord.gg/Fwd9MgB8Ww"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:itsmarwanuefn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
