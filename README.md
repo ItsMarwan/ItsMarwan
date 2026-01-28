@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Marwan%20👨‍💻&fontAlign=50&fontAlignY=40&fontSize=60&desc=Developer%20|%20Automation%20Enthusiast%20|%20Problem%20Solver&descAlign=50&descAlignY=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Marwan%20👨‍💻&fontAlign=50&fontAlignY=40&fontSize=60&desc=Solo%20Developer%20|%20UEFN%20Specialist&descAlign=50&descAlignY=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff" />
 </p>
 
 
