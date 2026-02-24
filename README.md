@@ -29,7 +29,7 @@ I enjoy solving real-world problems through clean and efficient code.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,vscode,visualstudio,unreal,nodejs,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,vscode,visualstudio,unreal,nodejs,vercel,supabase,firebase" />
 </p>
 
 **Languages & Tools I Use:**
