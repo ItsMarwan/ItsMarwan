@@ -35,7 +35,7 @@ I mostly work solo, iterate fast, and ship improvements continuously.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,nodejs,unreal,firebase,supabase,vercel,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,nodejs,unreal,firebase,supabase,vercel,vscode,nextjs,typescript,react" />
 </p>
 
 ### How I use them
