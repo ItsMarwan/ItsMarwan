@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://marwan.is-cool.dev/brand.png" width="140" alt="ItsMarwan's Brand Logo" />
+  <img src="https://marwan.is-a.dev/brand.png" width="140" alt="ItsMarwan's Brand Logo" />
 </p>
 
 <h1 align="center">ItsMarwan</h1>
 <p align="center">
-  <b>Solo Developer · UEFN Specialist · Automation Builder</b>
+  <b>Solo Developer · UEFN Specialist</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmarwan&style=flat-square&color=1e90ff" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-1e90ff?style=flat-square" />
 </p>
 
 ---
@@ -23,12 +22,10 @@ I mostly work solo, iterate fast, and ship improvements continuously.
 
 ---
 
-## 🧠 Current Focus
-
-- ⚙️ Automation scripts & developer utilities  
-- 🧩 Creator-focused tools and platforms  
-- 🔐 Backend logic, auth flows, and system design  
-- 🎮 UEFN tools, assets, and workflows  
+## 💬 Discord Status
+<p align="center">
+  <img src="https://dsc-readme.tsuni.dev/api/user/999407143646142514?theme=dark&width=512" />
+</p>
 
 ---
 
@@ -38,21 +35,12 @@ I mostly work solo, iterate fast, and ship improvements continuously.
   <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,nodejs,unreal,firebase,supabase,vercel,vscode,nextjs,typescript,react" />
 </p>
 
-### How I use them
-- **Python** → Automation, CLI tools  
-- **JavaScript / Node.js** → APIs, backend logic  
-- **HTML / CSS / Tailwind** → Fast, clean frontends  
-- **Unreal Engine 5 / UEFN** → Creative systems & tools  
-- **Firebase / Supabase** → Auth, databases, backend services  
-- **Vercel** → Deployment & hosting  
-
 ---
 
 ## 🚀 Projects & Platforms
 
-- 🌐 **Website** → https://marwan.is-cool.dev  
-- 🛒 **DevUEFN Marketplace** → Asset-linking platform for creators  
-- 🧰 **Automation Tools** → Private & public utilities  
+- 🌐 **Website** → https://marwan.is-a.dev  
+- 🛒 **UEFN DevKit** → Best UEFN Tool for developers and creators.
 - 🎮 **UEFN Assets & Systems** → Actively maintained tools  
 
 ---
@@ -68,11 +56,8 @@ I mostly work solo, iterate fast, and ship improvements continuously.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://marwan.is-cool.dev">
+  <a href="https://marwan.is-a.dev">
     <img src="https://img.shields.io/badge/Website-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://marwan.is-cool.dev">
-    <img src="https://img.shields.io/badge/DevUEFN-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://discord.gg/Fwd9MgB8Ww">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
